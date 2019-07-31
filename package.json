@@ -4,6 +4,6 @@
     "build": "node_modules/.bin/remarker build"
   },
   "dependencies": {
-    "remarker": "^1.7.1"
+    "remarker": "^1.10.0"
   }
 }

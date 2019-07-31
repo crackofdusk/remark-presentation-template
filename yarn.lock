@@ -2257,7 +2257,7 @@ regex-not@^1.0.0, regex-not@^1.0.2:
     extend-shallow "^3.0.2"
     safe-regex "^1.1.0"
 
-remarker@^1.7.1:
+remarker@^1.10.0:
   version "1.10.0"
   resolved "https://registry.yarnpkg.com/remarker/-/remarker-1.10.0.tgz#8a34d74ebbe891fe00346246502f2367730f8f9b"
   integrity sha512-8t4PK1tQ8Qcy0dqO4SIXNfvKe8+VHNGKce/oAOkwQGaqXj/5FbyaPItwAmBE25YYalr/x2etMS9ox7FyYULfwA==
